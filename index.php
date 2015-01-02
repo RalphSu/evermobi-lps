@@ -16,7 +16,8 @@
 <div class="clearfix grpelem" id=pu97-4>
 <div class="clearfix colelem" id=u97-4>
 <div class=grpelem id=pu97-3>
-<p><img src="images/logo.jpg" />EverMobi</p>
+<img src="images/logo.jpg" />
+<p>EverMobi</p>
 </div>
 <div class="clearfix grpelem" id=u98-3>
 <p>&nbsp;</p>
