@@ -16,7 +16,7 @@
 <div class="clearfix grpelem" id=pu97-4>
 <div class="clearfix colelem" id=u97-4>
 <div class=grpelem id=pu97-3>
-<p>Business Name</p>
+<p><img src="images/logo.jpg" />EverMobi</p>
 </div>
 <div class="clearfix grpelem" id=u98-3>
 <p>&nbsp;</p>
