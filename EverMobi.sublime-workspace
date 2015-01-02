@@ -1,0 +1,1837 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"had",
+				"hadoopssl"
+			],
+			[
+				"IMPORT",
+				"import	keyword"
+			],
+			[
+				"rol",
+				"roletype	import"
+			],
+			[
+				"com",
+				"common"
+			],
+			[
+				"mac",
+				"machine_center"
+			],
+			[
+				"ma",
+				"machine_center"
+			],
+			[
+				"set",
+				"setting"
+			],
+			[
+				"ob",
+				"object"
+			],
+			[
+				"PHD_V",
+				"PHD_VARRUN_DIR"
+			],
+			[
+				"phd_var",
+				"phd_varlog_path	function"
+			],
+			[
+				"HiveU",
+				"HiveUtil"
+			],
+			[
+				"Hive",
+				"HiveConf"
+			],
+			[
+				"stack",
+				"stack_context"
+			],
+			[
+				"clas",
+				"class	New Class"
+			],
+			[
+				"log",
+				"log_stack_info"
+			],
+			[
+				"assert",
+				"assertTrue"
+			],
+			[
+				"war",
+				"warehouse_dir"
+			],
+			[
+				"h",
+				"hive_site_xml	function"
+			],
+			[
+				"H",
+				"HiveUtil"
+			],
+			[
+				"compre",
+				"compress"
+			],
+			[
+				"_c",
+				"_clean_table"
+			],
+			[
+				"ra",
+				"random"
+			],
+			[
+				"exis",
+				"exists"
+			],
+			[
+				"oo",
+				"oozie_env_file"
+			],
+			[
+				"old",
+				"old_schema_version"
+			],
+			[
+				"pos",
+				"postgres"
+			],
+			[
+				"db",
+				"db_name"
+			],
+			[
+				"logg",
+				"logger"
+			],
+			[
+				"hiv",
+				"hive_site_xml	statement"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"hive_si",
+				"hive_site_xml"
+			],
+			[
+				"Hi",
+				"HiveUtil	class"
+			],
+			[
+				"all",
+				"allmachines"
+			],
+			[
+				"insta",
+				"install_jdk"
+			],
+			[
+				"re",
+				"resourcemanagers"
+			],
+			[
+				"flume",
+				"flume_agent"
+			],
+			[
+				"time",
+				"timeout=300"
+			],
+			[
+				"lea",
+				"leave_safemode"
+			],
+			[
+				"is",
+				"isalpha"
+			],
+			[
+				"yan",
+				"yarn_site_xml"
+			],
+			[
+				"tab",
+				"tables"
+			],
+			[
+				"pri",
+				"print"
+			],
+			[
+				"St",
+				"StackUtil	class"
+			],
+			[
+				"machi",
+				"machine"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"hue",
+				"hue_conf"
+			],
+			[
+				"resou",
+				"resourcemanager"
+			],
+			[
+				"restart",
+				"restart"
+			],
+			[
+				"yar",
+				"yarn_site"
+			],
+			[
+				"yarn_si",
+				"yarn_site_xml"
+			],
+			[
+				"con",
+				"configuration"
+			],
+			[
+				"conf",
+				"conf_dir	function"
+			],
+			[
+				"httpf",
+				"httpfs_site"
+			],
+			[
+				"phd_conf",
+				"phd_conf_dir"
+			],
+			[
+				"ht",
+				"httpfs_site_xml	statement"
+			],
+			[
+				"phd",
+				"phd_conf_dir"
+			],
+			[
+				"jd",
+				"jdbc_ps	statement"
+			],
+			[
+				"ST",
+				"StackInfo	class"
+			],
+			[
+				"Test",
+				"TestCase"
+			],
+			[
+				"instal",
+				"install"
+			],
+			[
+				"stop",
+				"stop_yarn	function"
+			],
+			[
+				"get",
+				"get_pseudo_stack	function"
+			],
+			[
+				"get_s",
+				"get_pseudo_stack"
+			],
+			[
+				"gphd",
+				"gphd_versions"
+			],
+			[
+				"rel",
+				"realm"
+			],
+			[
+				"tim",
+				"time"
+			],
+			[
+				"_in",
+				"_install_server	function"
+			],
+			[
+				"_config_",
+				"_config_server"
+			],
+			[
+				"_con",
+				"_config_client	function"
+			],
+			[
+				"laph",
+				"LaphoneTest	function"
+			],
+			[
+				"_re",
+				"_ret2"
+			],
+			[
+				"tes",
+				"test_user"
+			],
+			[
+				"hdfs_site",
+				"hdfs_site_xml"
+			],
+			[
+				"update",
+				"update_to_machinegroup"
+			],
+			[
+				"hbase_",
+				"hbase_regionserver"
+			],
+			[
+				"hb",
+				"hbase_site_xml	function"
+			],
+			[
+				"up",
+				"update_to_machinegroup	function"
+			],
+			[
+				"XM",
+				"XMlConfiguration"
+			],
+			[
+				"defa",
+				"defaultFS"
+			],
+			[
+				"rea",
+				"realm"
+			],
+			[
+				"dis",
+				"distribute_to_machinegroup"
+			],
+			[
+				"hbas",
+				"hbase_thrift"
+			],
+			[
+				"hbase",
+				"hbase_rest"
+			],
+			[
+				"hba",
+				"hbase_master"
+			],
+			[
+				"HB",
+				"HBaseUtil"
+			],
+			[
+				"stac",
+				"stack"
+			],
+			[
+				"webhcat_",
+				"webhcat_server"
+			],
+			[
+				"ver",
+				"version_def"
+			],
+			[
+				"pr",
+				"property"
+			],
+			[
+				"machin",
+				"machine2  (element)"
+			],
+			[
+				"ful",
+				"full"
+			],
+			[
+				"version",
+				"versions	module"
+			],
+			[
+				"name",
+				"namenodes"
+			],
+			[
+				"s",
+				"stackitems	import"
+			],
+			[
+				"hado",
+				"hadoop"
+			],
+			[
+				"PHD",
+				"PHDVersion"
+			],
+			[
+				"print",
+				"print_version"
+			],
+			[
+				"i",
+				"item_version	function"
+			],
+			[
+				"sta",
+				"stack	statement"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"dep",
+				"deploy"
+			],
+			[
+				"t",
+				"StackTestCase	class"
+			],
+			[
+				"non",
+				"None	keyword"
+			],
+			[
+				"stack_",
+				"stack_items"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"no",
+				"None	keyword"
+			],
+			[
+				"g",
+				"group	param"
+			],
+			[
+				"STC",
+				"StackTestCase"
+			],
+			[
+				"df",
+				"defaultFS"
+			],
+			[
+				"hat",
+				"HadoopUtil	class"
+			],
+			[
+				"Sta",
+				"StackTestCase	class"
+			],
+			[
+				"La",
+				"LaphoneTestCase"
+			],
+			[
+				"in",
+				"install	function"
+			],
+			[
+				"sp",
+				"spark"
+			],
+			[
+				"yarn",
+				"yarn"
+			],
+			[
+				"remo",
+				"remove_config"
+			],
+			[
+				"is_s",
+				"is_security"
+			],
+			[
+				"u",
+				"update_to_machine	function"
+			],
+			[
+				"proper",
+				"property"
+			],
+			[
+				"__",
+				"__main__"
+			],
+			[
+				"cont",
+				"continue	keyword"
+			],
+			[
+				"content",
+				"content_lines"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"star",
+				"start_version"
+			],
+			[
+				"compa",
+				"compare_version"
+			],
+			[
+				"Ser",
+				"Service"
+			],
+			[
+				"requ",
+				"required_roles"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 2384,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/User/Builds/pyenv.sublime-build",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"flake",
+				"User: Python Flake8 Lint"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pcont",
+				"Package Control: Remove Package"
+			],
+			[
+				"auto",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"aut",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"pylin",
+				"SublimeREPL: Python - Sublime Text Console"
+			],
+			[
+				"utf",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pylint",
+				"User: Python Flake8 Lint"
+			],
+			[
+				"sor",
+				"Sort Lines"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"import",
+				"Python Import Magic: Update Imports"
+			],
+			[
+				"p8",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"form",
+				"User: Python PEP8 Autoformat"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"pcon",
+				"Package Control: List Packages"
+			],
+			[
+				"histor",
+				"Jimbly's Clipboard History: Paste Choice"
+			],
+			[
+				"hist",
+				"Clipboard History"
+			],
+			[
+				"pcontol",
+				"Package Control: Disable Package"
+			],
+			[
+				"prp",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"mgic",
+				"Python Import Magic: Update Imports"
+			],
+			[
+				"magic",
+				"Python Import Magic: Update Imports"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pep8",
+				"Pep8 Python Lint"
+			],
+			[
+				"pythonrun",
+				"SublimeREPL: Python - RUN current file"
+			],
+			[
+				"up",
+				"Convert Case: Upper Case"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"bui",
+				"Build: Cancel"
+			],
+			[
+				"sid",
+				"View: Toggle Side Bar"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"xiki",
+				"Create Xiki Buffer"
+			],
+			[
+				"tit",
+				"Convert Case: Title Case"
+			],
+			[
+				"pc",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"Snippet: #",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"pcl",
+				"Package Control: List Packages"
+			],
+			[
+				"python ",
+				"Set Syntax: Python"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"pcin",
+				"Package Control: Install Package"
+			],
+			[
+				"pc in",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 197.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/jxu/stash/stack_automation/lib/deploy/items/hcatalog.py",
+		"/Users/jxu/stash/stack_automation/rpmtest/rpm_util.py",
+		"/Users/jxu/stash/stack_automation/lib/deploy/items/stackitems.py",
+		"/Users/jxu/stash/stack_automation/lib/test/stack.py",
+		"/Users/jxu/stash/stack_automation/integrationtest/hadoop/testHadoopVersion.py",
+		"/Users/jxu/Downloads/myfile141118142048.txt",
+		"/Users/jxu/stash/stack_automation/lib/deploy/versions.py",
+		"/Users/jxu/stash/stack_automation/rpmtest/dependency/testHcatalog.py",
+		"/Users/jxu/stash/stack_automation/rpmtest/dependency/testWebhcat.py",
+		"/Users/jxu/stash/stack_automation/rpmtest/dependency/testHcatalogServer.py",
+		"/Users/jxu/stash/stack_automation/rpmtest/dependency/testWebhcatServer.py",
+		"/Users/jxu/stash/stack_automation/_local_johnson.py",
+		"/Users/jxu/stash/stack_automation/_local_issues.txt",
+		"/Users/jxu/stash/stack_automation/integrationtest/hdfs/testHdfsCacheAdmin.py",
+		"/Users/jxu/stash/stack_automation/integrationtest/hadoop/testHadoopCommands.py",
+		"/Users/jxu/stash/stack_automation/integrationtest/hive/testHiveHwi.py",
+		"/Users/jxu/stash/stack_automation/integrationtest/hive/test_schematool.py",
+		"/Users/jxu/stash/stack_automation/util/oozie.py",
+		"/Users/jxu/stash/stack_automation/lib/tools/common.py",
+		"/Users/jxu/stash/stack_automation/integrationtest/yarn/testYarnRMRestart.py",
+		"/Users/jxu/stash/stack_automation/util/hadoop.py",
+		"/Users/jxu/stash/stack_automation/conf/phd.xml",
+		"/Users/jxu/stash/stack_automation/integrationtest/hive/testHiveServer2.py",
+		"/Users/jxu/stash/stack_automation/integrationtest/hive/testDuplicateLoadData.py",
+		"/Users/jxu/stash/stack_automation/smoketest/testSqoop.py",
+		"/Users/jxu/stash/stack_automation/util/hbase.py",
+		"/Users/jxu/stash/stack_automation/integrationtest/oozie/testSqoop.py",
+		"/Users/jxu/stash/stack_automation/integrationtest/hbase/testHBaseSimpleUserAccess.py",
+		"/Users/jxu/stash/stack_automation/integrationtest/hive/testHiveStreamingAPI.py",
+		"/Users/jxu/stash/stack_automation/bin/stack.sh",
+		"/Users/jxu/stash/stack_automation/util/hdfs.py",
+		"/Users/jxu/stash/stack_automation/integrationtest/yarn/testyarnrest.py",
+		"/Users/jxu/stash/stack_automation/integrationtest/oozie/testOozieExamples.py",
+		"/Users/jxu/stash/stack_automation/lib/deploy/settings.py",
+		"/Users/jxu/stash/laphone/laphone/kdc.py",
+		"/Users/jxu/stash/stack_automation/integrationtest/hdfs/testHdfsACL.py",
+		"/Users/jxu/stash/stack_automation/integrationtest/hcatalog/testHCatalogWithPig.py",
+		"/Users/jxu/stash/sa/integrationtest/hive/testHiveServer2.py",
+		"/Users/jxu/stash/stack_automation/integrationtest/hadoop/testCompression.py",
+		"/Users/jxu/stash/stack_automation/integrationtest/hdfs/testHdfsQuotas.py",
+		"/Users/jxu/stash/sa/integrationtest/yarn/testTimelineServer.py",
+		"/Users/jxu/stash/sa/integrationtest/yarn/testYarnRMRestart.py",
+		"/Users/jxu/stash/sa/smoketest/testSpark.py",
+		"/Users/jxu/stash/sa/smoketest/testZookeeper.py",
+		"/Users/jxu/stash/sa/smoketest/testHDFS.py",
+		"/Users/jxu/stash/sa/hatest/hdfs/testHAHdfs.py",
+		"/Users/jxu/stash/sa/hatest/hdfs/testHAWithoutAutoFailover.py",
+		"/Users/jxu/stash/sa/hatest/yarn/testHAYarn.py",
+		"/Users/jxu/stash/sa/integrationtest/hadoop/test_http_header_size.py",
+		"/Users/jxu/stash/sa/integrationtest/mahout/testMahoutClustering.py",
+		"/Users/jxu/stash/sa/integrationtest/pig/testPigLoadIntoHbase.py",
+		"/Users/jxu/stash/sa/integrationtest/sqoop/test_import.py",
+		"/Users/jxu/stash/sa/integrationtest/yarn/test_recursive_inputformat.py",
+		"/Users/jxu/stash/sa/integrationtest/yarn/testCapacityScheduler.py",
+		"/Users/jxu/stash/sa/integrationtest/yarn/testFairScheduler.py",
+		"/Users/jxu/stash/sa/integrationtest/yarn/testmr1onyarn.py",
+		"/Users/jxu/stash/sa/integrationtest/yarn/testvaidyawebui.py",
+		"/Users/jxu/stash/sa/integrationtest/yarn/testYarnCommands.py",
+		"/Users/jxu/stash/sa/integrationtest/pig/testPiggyBank.py",
+		"/Users/jxu/stash/sa/integrationtest/oozie/testSqoop.py",
+		"/Users/jxu/stash/sa/integrationtest/mahout/testMahoutClassification.py",
+		"/Users/jxu/stash/sa/integrationtest/hive/testHiveStreamingAPI.py",
+		"/Users/jxu/stash/sa/integrationtest/hive/testDuplicateLoadData.py",
+		"/Users/jxu/stash/sa/integrationtest/hive/testCompression.py",
+		"/Users/jxu/stash/sa/integrationtest/hive/test_bugfix.py",
+		"/Users/jxu/stash/sa/integrationtest/hdfs/testShortCircuitLocalReads.py",
+		"/Users/jxu/stash/sa/integrationtest/hdfs/testHdfsSnapshot2.py",
+		"/Users/jxu/stash/sa/integrationtest/hdfs/testNfs.py",
+		"/Users/jxu/stash/sa/integrationtest/hdfs/testhdfswebui.py",
+		"/Users/jxu/stash/sa/integrationtest/hdfs/testHdfsSnapshot.py",
+		"/Users/jxu/stash/sa/integrationtest/hdfs/testHdfsAppend.py",
+		"/Users/jxu/stash/sa/integrationtest/hdfs/testHdfsACL.py",
+		"/Users/jxu/stash/sa/integrationtest/hbase/testHBaseSnapshot.py",
+		"/Users/jxu/stash/sa/integrationtest/hbase/testHBaseCompression.py",
+		"/Users/jxu/stash/sa/integrationtest/hadoop/testServiceLevelAuthorization.py",
+		"/Users/jxu/stash/sa/integrationtest/hadoop/testHadoopCommands.py",
+		"/Users/jxu/stash/sa/integrationtest/hadoop/testCompression.py",
+		"/Users/jxu/stash/stack_automation/lib/item/hive.py",
+		"/Users/jxu/stash/stack_automation/lib/deploy/utils/service.py",
+		"/Users/jxu/stash/stack_automation/lib/item/stack.py",
+		"/Users/jxu/stash/stack_automation/lib/common/context.py",
+		"/Users/jxu/stash/stack_automation/lib/conf/base.py",
+		"/Users/jxu/stash/stack_automation/lib/conf/hcatalog.py",
+		"/Users/jxu/stash/stack_automation/lib/conf/hbase.py",
+		"/Users/jxu/stash/stack_automation/lib/conf/zookeeper.py",
+		"/Users/jxu/stash/stack_automation/lib/deploy/items/zookeeper.py",
+		"/Users/jxu/stash/stack_automation/lib/conf/hadoop.py",
+		"/Users/jxu/stash/stack_automation/lib/deploy/items/hdfs/item.py",
+		"/Users/jxu/stash/stack_automation/lib/conf/hdfs.py",
+		"/Users/jxu/stash/stack_automation/lib/conf/yarn.py",
+		"/Users/jxu/stash/stack_automation/lib/deploy/items/yarn/item.py",
+		"/Users/jxu/stash/stack_automation/lib/conf/hive.py",
+		"/Users/jxu/stash/sa/lib/tools/common.py",
+		"/Users/jxu/stash/stack_automation/lib/common/runtime.py",
+		"/Users/jxu/stash/stack_automation/lib/util/stack.py",
+		"/Users/jxu/stash/stack_automation/lib/deploy/stack.py",
+		"/Users/jxu/stash/stack_automation/lib/common/setting.py",
+		"/Users/jxu/stash/stack_automation/lib/deploy/items/hive.py",
+		"/Users/jxu/stash/stack_automation/lib/item/base.py",
+		"/Users/jxu/stash/stack_automation/lib/util/hive.py",
+		"/Users/jxu/stash/stack_automation/lib/util/base.py",
+		"/Users/jxu/stash/stack_automation/lib/conf/hiveconf.py",
+		"/Users/jxu/stash/stack_automation/lib/common/roletype.py",
+		"/Users/jxu/stash/stack_automation/lib/item/hbase.py",
+		"/Users/jxu/stash/sa/lib/test/_stack.py",
+		"/Users/jxu/stash/sa/lib/common/stackbase.py",
+		"/Users/jxu/stash/sa/lib/test/case.py",
+		"/Users/jxu/stash/sa/rpmtest/rpm_util.py",
+		"/Users/jxu/stash/stack_automation/lib/test/_stack.py",
+		"/Users/jxu/stash/sa/lib/test/stack.py",
+		"/Users/jxu/stash/sa/lib/common/context.py",
+		"/Users/jxu/stash/sa/securitytest/hbase/__init__.py",
+		"/Users/jxu/stash/stack_automation/lib/resource.py",
+		"/Users/jxu/stash/sa/util/common.py",
+		"/Users/jxu/stash/stack_automation/util/common.py",
+		"/Users/jxu/stash/stack_automation/lib/common/version.py",
+		"/Users/jxu/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/jxu/stash/stack_automation/lib/common/hierarchy.py",
+		"/Users/jxu/stash/stack_automation/lib/deploy/items/hbase/item.py",
+		"/Users/jxu/stash/stack_automation/lib/conf/stackconf.py",
+		"/Users/jxu/stash/stack_automation/lib/deploy/items/hdfs/ha.py",
+		"/Users/jxu/stash/stack_automation/lib/deploy/items/postgresql.py",
+		"/Users/jxu/stash/stack_automation/lib/deploy/items/nfs.py",
+		"/Users/jxu/stash/stack_automation/util/stack.py",
+		"/Users/jxu/stash/stack_automation/lib/util/hiveutil.py",
+		"/Users/jxu/stash/stack_automation/lib/common/stackbase.py",
+		"/Users/jxu/stash/stack_automation/lib/deploy/items/base.py",
+		"/Users/jxu/stash/stack_automation/lib/common/tag.py"
+	],
+	"find":
+	{
+		"height": 47.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/jxu/stash/sa/integrationtest",
+			"/Users/jxu/stash/sa/",
+			"/Users/jxu/stash/sa/smoketest",
+			"/Users/jxu/stash/sa/securitytest",
+			"/Users/jxu/stash/sa/hatest",
+			"/Users/jxu/stash/sa/integrationtest",
+			"/Users/jxu/stash/sa",
+			"/Users/jxu/stash/sa/integrationtest",
+			"/Users/jxu/stash/sa/",
+			"/Users/jxu/stash/sa/lib",
+			"/Users/jxu/stash/sa/",
+			"/Users/jxu/stash/sa/integrationtest",
+			"/Users/jxu/stash/sa",
+			"/Users/jxu/stash/sa/integrationtest",
+			"/Users/jxu/stash/sa/",
+			"/Users/jxu/stash/sa/integrationtest",
+			"/Users/jxu/stash/sa",
+			"/Users/jxu/stash/phdqalib",
+			"/Users/jxu/stash/sa/",
+			"/Users/jxu/stash/sa/integrationtest",
+			"/Users/jxu/stash/sa/",
+			"/Users/jxu/stash/sa/lib",
+			"/Users/jxu/stash/sa",
+			"/Users/jxu/stash/sa/lib",
+			"/Users/jxu/stash/sa,-/Users/jxu/stash/sa/logs",
+			"/Users/jxu/stash/sa",
+			"/Users/jxu/stash/sa/lib",
+			"/Users/jxu/stash/sa/",
+			"/Users/jxu/stash/sa/integrationtest",
+			"/Users/jxu/stash/sa,-*.log",
+			"/Users/jxu/stash/sa",
+			"/Users/jxu/stash/sa/rpmtest",
+			"/Users/jxu/stash/sa",
+			"/Users/jxu/stash/laphone",
+			"/Users/jxu/stash/sa/",
+			"/Users/jxu/stash/sa/rpmtest",
+			"/Users/jxu/stash/sa/rpmtest/installation",
+			"/Users/jxu/stash/sa",
+			"/Users/jxu/stash/sa/integrationtest",
+			"/Users/jxu/stash/sa/",
+			"/Users/jxu/stash/sa/lib",
+			"/Users/jxu/stash/sa/",
+			"/Users/jxu/stash/sa/rpmtest",
+			"/Users/jxu/stash/sa/integrationtest",
+			"/Users/jxu/stash/sa/integration",
+			"/Users/jxu/stash/sa",
+			"/Users/jxu/stash/sa/lib/,/Users/jxu/stash/sa/util/",
+			"/Users/jxu/stash/sa/lib/",
+			"/Users/jxu/stash/sa/",
+			"/Users/jxu/stash/sa/lib",
+			"/Users/jxu/stash/lib",
+			"/Users/jxu/stash/sa,,-/Users/jxu/stash/sa/conf/*.xml",
+			"/Users/jxu/stash/sa,,-/Users/jxu/stash/sa/conf/*",
+			"/Users/jxu/stash/sa,,-/Users/jxu/stash/sa/conf",
+			"/Users/jxu/stash/sa",
+			"/Users/jxu/stash/lib",
+			"/Users/jxu/stash/sa",
+			"/Users/jxu/stash/sa/integrationtest",
+			"/Users/jxu/stash/sa/smoketest",
+			"/Users/jxu/stash/sa,,/Users/jxu/stash/phdqalib",
+			"/Users/jxu/stash/sa",
+			"/Users/jxu/stash/sa/lib",
+			"/Users/jxu/stash/qalib",
+			"/Users/jxu/stash/stack_automation/resources",
+			"/Users/jxu/stash/stack_automation/resource",
+			"/Users/jxu/stash/stack_automation",
+			"/Users/jxu/stash/stack_automation/smoketest",
+			"/Users/jxu/stash/stack_automation,/Users/jxu/stash/phdqalib,-*.log,,/Users/jxu/stash/laphone",
+			"/Users/jxu/stash/stack_automation,/Users/jxu/stash/phdqalib,-*.log",
+			"/Users/jxu/stash/stack_automation,/Users/jxu/stash/phdqalib",
+			"/Users/jxu/stash/stack_automation"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"Started",
+			"elif",
+			"Bug",
+			"Actions",
+			"PHD 3.0",
+			"Unresolved",
+			"STACK_EXTRA_OPTS",
+			"url_ssl_part",
+			"\n\n\nREALM",
+			"realm",
+			"REALM",
+			"StackGlobalConfig",
+			"config",
+			"sqoop",
+			"ns1",
+			"ha",
+			"data",
+			"/data/",
+			"/data/oozie",
+			"/data",
+			"gphd",
+			"gphd/",
+			"gphd",
+			"_get_zk_cmds",
+			"ZOOKEEPER_HOME",
+			"\n",
+			"gphd/",
+			"gphd",
+			"etc",
+			"gphd",
+			"_stack",
+			"gphd",
+			"keytab_file",
+			"kerberos_principal",
+			"hive",
+			"super_user",
+			"hive",
+			"hadoop_conf_dir",
+			"._stack",
+			"_stack",
+			"17",
+			"15",
+			"setting",
+			"XMlConfiguration",
+			"Server",
+			"settings",
+			"compare_version",
+			"NotAvailableService",
+			"keytab_file",
+			"\\t",
+			"stack_context",
+			"RoleType",
+			"StackContext",
+			"stack_info",
+			"StackInfo",
+			"setting",
+			"compare_version",
+			"phd_versions",
+			"PHDVersion",
+			"machine_center",
+			"self.get",
+			"	",
+			"PHD_CONF_DIR",
+			"get",
+			"fetch",
+			"phd_versions",
+			"setting",
+			"PHDVersion",
+			"compare_version",
+			"items",
+			"self.stack.",
+			"items",
+			"external_items",
+			"stack_items",
+			"jar_version",
+			"phd_version",
+			"get_property",
+			"attrs",
+			"StackInfo",
+			"compare_version",
+			"phd_versions",
+			"versions",
+			"settings",
+			"setting",
+			"settings",
+			"setting",
+			"tag.",
+			"tag",
+			"itertools",
+			"compare_version",
+			"itertools",
+			"compare_version",
+			"version",
+			"compare_version",
+			"current_version",
+			"settings",
+			"RoleType",
+			"MachineGroup",
+			"_tags",
+			"items",
+			"actions",
+			"roles",
+			"self._items",
+			"_items",
+			"_external_items",
+			"RoleType",
+			"external_items",
+			"_filter_item",
+			"_items",
+			"_external_items",
+			"_tags",
+			"_filter_item",
+			"itertools",
+			"settings",
+			"tag",
+			"tags",
+			"MachineGroup",
+			"roles",
+			"tags",
+			"RoleType",
+			"_items",
+			"_filter_item",
+			"machine_center",
+			"current_version",
+			"compare_version",
+			"version",
+			"compare_version",
+			"machine_center"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"hcatalog",
+			"zookeeper",
+			"hbase",
+			"yarn",
+			"hdfs",
+			"    ",
+			"-dbTy",
+			"++i",
+			"    "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 2384,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"bh_regions":
+							[
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 240.0
+	},
+	"output.gjslint_result_view":
+	{
+		"height": 186.0
+	},
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"machine",
+				"laphone/laphone/machine/machine.py"
+			],
+			[
+				"testhadoopversion",
+				"stack_automation/integrationtest/hadoop/testHadoopVersion.py"
+			],
+			[
+				"stackitem",
+				"stack_automation/lib/deploy/items/stackitems.py"
+			],
+			[
+				"rpm",
+				"stack_automation/rpmtest/rpm_util.py"
+			],
+			[
+				"stack.py",
+				"stack_automation/lib/test/stack.py"
+			],
+			[
+				"vers",
+				"stack_automation/lib/deploy/versions.py"
+			],
+			[
+				"hbase.py",
+				"stack_automation/util/hbase.py"
+			],
+			[
+				"testsqoop",
+				"stack_automation/smoketest/testSqoop.py"
+			],
+			[
+				"hiveserver",
+				"stack_automation/integrationtest/hive/testHiveServer2.py"
+			],
+			[
+				"dupli",
+				"stack_automation/integrationtest/hive/testDuplicateLoadData.py"
+			],
+			[
+				"version",
+				"stack_automation/lib/deploy/versions.py"
+			],
+			[
+				"hiveserver2",
+				"stack_automation/integrationtest/hive/testHiveServer2.py"
+			],
+			[
+				"stack.sh",
+				"stack_automation/bin/stack.sh"
+			],
+			[
+				"phd.",
+				"stack_automation/conf/phd.xml"
+			],
+			[
+				"settings",
+				"stack_automation/lib/deploy/settings.py"
+			],
+			[
+				"hadoop.py",
+				"stack_automation/util/hadoop.py"
+			],
+			[
+				"oozie/test",
+				"stack_automation/integrationtest/oozie/testOozieExamples.py"
+			],
+			[
+				"testduplicateloaddata",
+				"stack_automation/integrationtest/hive/testDuplicateLoadData.py"
+			],
+			[
+				"testyarnrmrestart",
+				"stack_automation/integrationtest/yarn/testYarnRMRestart.py"
+			],
+			[
+				"testyarnrest",
+				"stack_automation/integrationtest/yarn/testyarnrest.py"
+			],
+			[
+				"ooziesqoop",
+				"stack_automation/integrationtest/oozie/testSqoop.py"
+			],
+			[
+				"sche",
+				"stack_automation/integrationtest/hive/test_schematool.py"
+			],
+			[
+				"testhivehwi",
+				"stack_automation/integrationtest/hive/testHiveHwi.py"
+			],
+			[
+				"testhivestreamingapi",
+				"stack_automation/integrationtest/hive/testHiveStreamingAPI.py"
+			],
+			[
+				"testhdfsacl",
+				"stack_automation/integrationtest/hdfs/testHdfsACL.py"
+			],
+			[
+				"testhcatalogwithpig",
+				"stack_automation/integrationtest/hcatalog/testHCatalogWithPig.py"
+			],
+			[
+				"testhadoopcommands",
+				"stack_automation/integrationtest/hadoop/testHadoopCommands.py"
+			],
+			[
+				"cacheadmin",
+				"stack_automation/integrationtest/hdfs/testHdfsCacheAdmin.py"
+			],
+			[
+				"testcompression",
+				"stack_automation/integrationtest/hadoop/testCompression.py"
+			],
+			[
+				"testhdfsquotas",
+				"stack_automation/integrationtest/hdfs/testHdfsQuotas.py"
+			],
+			[
+				"yarn/it",
+				"stack_automation/lib/deploy/items/yarn/item.py"
+			],
+			[
+				"hdfs/ite",
+				"stack_automation/lib/deploy/items/hdfs/item.py"
+			],
+			[
+				"hive",
+				"stack_automation/lib/deploy/items/hive.py"
+			],
+			[
+				"hie",
+				"stack_automation/lib/common/hierarchy.py"
+			],
+			[
+				"common",
+				"stack_automation/util/common.py"
+			],
+			[
+				"hbase/item",
+				"stack_automation/lib/deploy/items/hbase/item.py"
+			],
+			[
+				"sett",
+				"stack_automation/lib/deploy/settings.py"
+			],
+			[
+				"ha.py",
+				"stack_automation/lib/deploy/items/hdfs/ha.py"
+			],
+			[
+				"hdfs/item",
+				"stack_automation/lib/deploy/items/hdfs/item.py"
+			],
+			[
+				"stackconf",
+				"stack_automation/lib/conf/stackconf.py"
+			],
+			[
+				"hiveut",
+				"stack_automation/lib/util/hiveutil.py"
+			],
+			[
+				"baseconf",
+				"stack_automation/lib/conf/baseconf.py"
+			],
+			[
+				"hiveconf",
+				"stack_automation/lib/conf/hiveconf.py"
+			],
+			[
+				"tag",
+				"stack_automation/lib/deploy/utils/tags.py"
+			],
+			[
+				"yarncom",
+				"stack_automation/integrationtest/yarn/testYarnCommands.py"
+			],
+			[
+				"hdfsitem",
+				"stack_automation/lib/deploy/items/hdfs/item.py"
+			],
+			[
+				"hdfs.py",
+				"stack_automation/util/hdfs.py"
+			],
+			[
+				"",
+				"stack_automation/_local_issues.txt"
+			],
+			[
+				"zo",
+				"stack_automation/lib/deploy/items/zookeeper.py"
+			],
+			[
+				"stack.",
+				"stack_automation/lib/test/stack.py"
+			],
+			[
+				"_loc",
+				"stack_automation/_local_issues.txt"
+			],
+			[
+				"oozie",
+				"stack_automation/lib/deploy/items/oozie.py"
+			],
+			[
+				"hdfsha",
+				"stack_automation/lib/deploy/items/hdfs/ha.py"
+			],
+			[
+				"testofflineeditsviewer",
+				"stack_automation/integrationtest/hdfs/testOfflineEditsViewer.py"
+			],
+			[
+				"testzook",
+				"stack_automation/rpmtest/dependency/testZookeeper.py"
+			],
+			[
+				"fsim",
+				"stack_automation/integrationtest/hdfs/testOfflineImageViewer.py"
+			],
+			[
+				"hdfs",
+				"stack_automation/util/hdfs.py"
+			],
+			[
+				"post",
+				"laphone/laphone/postgresql.py"
+			],
+			[
+				"postg",
+				"laphone/laphone/postgresql.py"
+			],
+			[
+				"stackit",
+				"stack_automation/lib/deploy/items/stackitems.py"
+			],
+			[
+				"hadoop",
+				"stack_automation/util/hadoop.py"
+			],
+			[
+				"hbase",
+				"stack_automation/util/hbase.py"
+			],
+			[
+				"utilhdfs",
+				"stack_automation/util/hdfs.py"
+			],
+			[
+				"utilhive",
+				"stack_automation/util/hive.py"
+			],
+			[
+				"cache",
+				"stack_automation/integrationtest/hdfs/testHdfsCacheAdmin.py"
+			],
+			[
+				"hadoopcompre",
+				"stack_automation/integrationtest/hadoop/testCompression.py"
+			],
+			[
+				"hdfsinit",
+				"stack_automation/hatest/hdfs/__init__.py"
+			],
+			[
+				"simple",
+				"stack_automation/lib/deploy/items/hdfs/simple.py"
+			],
+			[
+				"item",
+				"stack_automation/lib/deploy/items/hdfs/item.py"
+			],
+			[
+				"hbasezk",
+				"stack_automation/integrationtest/hbase/testZookeeperAuth.py"
+			],
+			[
+				"hbasewrite",
+				"stack_automation/integrationtest/hbase/testHBaseWriteAheadLog.py"
+			],
+			[
+				"hatest/hdfs",
+				"stack_automation/hatest/hdfs/testHAHdfs.py"
+			],
+			[
+				"hatesthdfs",
+				"phdvm_automation/tutorials/testhdfs.py"
+			],
+			[
+				"pre",
+				"stack_automation/lib/deploy/actions/prepare.py"
+			],
+			[
+				"actions/",
+				"stack_automation/lib/deploy/actions/prepare.py"
+			],
+			[
+				"yum",
+				"phdqalib/phdlib/stack/yumrepo.py"
+			],
+			[
+				"hawith",
+				"stack_automation/hatest/hdfs/testHAWithoutAutoFailover.py"
+			],
+			[
+				"hatestyarn",
+				"stack_automation/hatest/yarn/testHAYarn.py"
+			],
+			[
+				"testha",
+				"stack_automation/hatest/hdfs/testHAHdfs.py"
+			],
+			[
+				"flume",
+				"stack_automation/smoketest/testFlume.py"
+			],
+			[
+				"hdfsitm",
+				"stack_automation/lib/deploy/items/hdfs/item.py"
+			],
+			[
+				"vaidya",
+				"stack_automation/integrationtest/yarn/testvaidyawebui.py"
+			],
+			[
+				"testflume",
+				"stack_automation/smoketest/testFlume.py"
+			],
+			[
+				"cons",
+				"stack_automation/consoleText"
+			],
+			[
+				"ha",
+				"stack_automation/lib/deploy/items/hdfs/ha.py"
+			],
+			[
+				"faire",
+				"stack_automation/integrationtest/yarn/testFairScheduler.py"
+			],
+			[
+				"racktest",
+				"stack_automation/racktest/testRackAwareness.py"
+			],
+			[
+				"stacktest",
+				"stack_automation/bin/stacktest"
+			],
+			[
+				"upgrade",
+				"stack_automation/dataupgrade/upgradetest/testUpgrade.py"
+			],
+			[
+				"stack",
+				"stack_automation/lib/deploy/stack.py"
+			],
+			[
+				"hivewith",
+				"stack_automation/integrationtest/hive/testHiveWithHBaseBackend.py"
+			],
+			[
+				"testcapa",
+				"stack_automation/integrationtest/yarn/testCapacityScheduler.py"
+			],
+			[
+				"smokehcata",
+				"stack_automation/smoketest/testHCatalog.py"
+			],
+			[
+				"testupgrade",
+				"stack_automation/dataupgrade/upgradetest/testUpgrade.py"
+			],
+			[
+				"phd.xm",
+				"stack_automation/conf/phd.xml"
+			],
+			[
+				"testhdfsappend",
+				"stack_automation/integrationtest/hdfs/testHdfsAppend.py"
+			],
+			[
+				"testwebhcatbasicrest",
+				"stack_automation/integrationtest/hcatalog/testWebhcatBasicREST.py"
+			],
+			[
+				"testhbasecolumnoperation",
+				"stack_automation/integrationtest/hbase/testHBaseColumnOperation.py"
+			],
+			[
+				"webui",
+				"laphone/laphone/web/webui.py"
+			],
+			[
+				"hcatalog",
+				"stack_automation/lib/deploy/items/hcatalog.py"
+			],
+			[
+				"base",
+				"stack_automation/lib/deploy/items/base.py"
+			],
+			[
+				"federation",
+				"stack_automation/lib/deploy/items/hdfs/federation.py"
+			],
+			[
+				"com",
+				"stack_automation/util/common.py"
+			],
+			[
+				"capa",
+				"stack_automation/integrationtest/yarn/testCapacityScheduler.py"
+			],
+			[
+				"fair",
+				"stack_automation/integrationtest/yarn/testFairScheduler.py"
+			],
+			[
+				"yanrweb",
+				"stack_automation/integrationtest/yarn/testyarnwebui.py"
+			],
+			[
+				"phd",
+				"stack_automation/conf/phd.xml"
+			],
+			[
+				"tetzk",
+				"stack_automation/smoketest/testZookeeper.py"
+			],
+			[
+				"config",
+				"stack_automation/lib/deploy/utils/configuration.py"
+			],
+			[
+				"local",
+				"stack_automation/_local_johnson.py"
+			],
+			[
+				"spark",
+				"stack_automation/lib/deploy/items/spark.py"
+			],
+			[
+				"webel",
+				"webdriver/remote/webelement.py"
+			],
+			[
+				"dia",
+				"stack_automation/resources/yarn/postex_diagnosis_tests.xml"
+			],
+			[
+				"webele",
+				"webdriver/remote/webelement.py"
+			],
+			[
+				"fai",
+				"stack_automation/integrationtest/yarn/testFairScheduler.py"
+			],
+			[
+				"element",
+				"webdriver/remote/webelement.py"
+			],
+			[
+				"yarnweb",
+				"stack_automation/integrationtest/yarn/testyarnwebui.py"
+			],
+			[
+				"testhue",
+				"stack_automation/smoketest/testHue.py"
+			],
+			[
+				"hue",
+				"stack_automation/lib/deploy/items/hue.py"
+			],
+			[
+				"set",
+				"stack_automation/lib/deploy/settings.py"
+			],
+			[
+				"laphontest",
+				"laphone/laphonetests"
+			],
+			[
+				"testhawithoutautofailover",
+				"stack_automation/hatest/testHAWithoutAutoFailover.py"
+			],
+			[
+				"nfs",
+				"stack_automation/integrationtest/hdfs/testNfs.py"
+			],
+			[
+				"testhwi",
+				"stack_automation/integrationtest/hive/testHiveHwi.py"
+			],
+			[
+				"cleanphd",
+				"stack_automation/lib/deploy/actions/cleanphd.py"
+			],
+			[
+				"inteflume",
+				"stack_automation/integrationtest/flume/testFlumeExecHBase.py"
+			],
+			[
+				"service",
+				"stack_automation/rpmtest/service/servicecase.py"
+			],
+			[
+				"testmr",
+				"stack_automation/integrationtest/yarn/testmr1onyarn.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 155.0,
+	"status_bar_visible": true
+}
