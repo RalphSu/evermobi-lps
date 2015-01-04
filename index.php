@@ -24,7 +24,7 @@
 </div>
 </div>
 <div class="clearfix colelem" id=u107-28>
-<p id=u107-2>Hello World. Welcome to the home of EverMobi.</p>
+<p id=u107-2>Welcome to the home of EverMobi.</p>
 <p id=u107-3>&nbsp;</p>
 <p id=u107-4>&nbsp;</p>
 <p id=u107-6>...What do we do?</p>
